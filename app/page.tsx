@@ -29,42 +29,42 @@ export default function Home() {
           <div className="relative">
             <div className="grid grid-cols-3 gap-4">
               <Image
-                src="/placeholder.svg?height=80&width=80"
+                src="https://www.splitbit.io/img/banner/3d/seo.png"
                 alt="JavaScript"
                 width={80}
                 height={80}
                 className="rounded-lg shadow-sm"
               />
               <Image
-                src="/placeholder.svg?height=80&width=80"
+                src="https://www.splitbit.io/img/technologies/react.png"
                 alt="React"
                 width={80}
                 height={80}
                 className="rounded-lg shadow-sm"
               />
               <Image
-                src="/placeholder.svg?height=80&width=80"
+                src="https://www.splitbit.io/img/technologies/wordpress.png"
                 alt="Flutter"
                 width={80}
                 height={80}
                 className="rounded-lg shadow-sm"
               />
               <Image
-                src="/placeholder.svg?height=80&width=80"
+                src="https://www.splitbit.io/img/technologies/wordpress.png"
                 alt="WordPress"
                 width={80}
                 height={80}
                 className="rounded-lg shadow-sm"
               />
               <Image
-                src="/placeholder.svg?height=80&width=80"
+                src="https://www.splitbit.io/img/banner/3d/bug.png"
                 alt="AWS"
                 width={80}
                 height={80}
                 className="rounded-lg shadow-sm"
               />
               <Image
-                src="/placeholder.svg?height=80&width=80"
+                src="https://www.splitbit.io/img/banner/3d/figma.png"
                 alt="Figma"
                 width={80}
                 height={80}
@@ -91,20 +91,20 @@ export default function Home() {
           <div className="grid md:grid-cols-3 gap-8">
             <div className="border rounded-lg p-6 text-center">
               <div className="flex justify-center mb-4">
-                <Image src="/placeholder.svg?height=150&width=150" alt="Transparency" width={150} height={150} />
+                <Image src="https://www.splitbit.io/img/why-us/transparency.png" alt="Transparency" width={150} height={150} />
               </div>
               <h3 className="text-xl font-medium mb-2">Transparency</h3>
             </div>
             <div className="border rounded-lg p-6 text-center">
               <div className="flex justify-center mb-4">
-                <Image src="/placeholder.svg?height=150&width=150" alt="On-time delivery" width={150} height={150} />
+                <Image src="https://www.splitbit.io/img/why-us/ontimedelivery.png" alt="On-time delivery" width={150} height={150} />
               </div>
               <h3 className="text-xl font-medium mb-2">On-time delivery</h3>
             </div>
             <div className="border rounded-lg p-6 text-center">
               <div className="flex justify-center mb-4">
                 <Image
-                  src="/placeholder.svg?height=150&width=150"
+                  src="https://www.splitbit.io/img/why-us/communication.png"
                   alt="Prompt Communication"
                   width={150}
                   height={150}
@@ -122,7 +122,7 @@ export default function Home() {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
               <Image
-                src="/placeholder.svg?height=400&width=500"
+                src="https://www.splitbit.io/img/why-us/target.png"
                 alt="Target oriented"
                 width={500}
                 height={400}
@@ -150,12 +150,12 @@ export default function Home() {
           <h2 className="text-3xl font-bold mb-12 text-gray-700">Our team was part of</h2>
           <div className="grid md:grid-cols-3 gap-8">
             <div className="space-y-4">
-              <Image src="/placeholder.svg?height=80&width=200" alt="XPAI" width={200} height={80} className="mb-4" />
+              <Image src="https://www.splitbit.io/img/clients/xpai.svg" alt="XPAI" width={200} height={80} className="mb-4" />
               <p className="text-gray-600">Building & Integrating AI driven IOT</p>
             </div>
             <div className="space-y-4">
               <Image
-                src="/placeholder.svg?height=80&width=200"
+                src="https://www.splitbit.io/img/clients/mythlok-logo.png"
                 alt="MythLok"
                 width={200}
                 height={80}
@@ -165,7 +165,7 @@ export default function Home() {
             </div>
             <div className="space-y-4">
               <Image
-                src="/placeholder.svg?height=80&width=200"
+                src="https://www.splitbit.io/img/clients/vgo.png"
                 alt="TRL Technologies"
                 width={200}
                 height={80}

@@ -28,8 +28,9 @@ export default function AboutUs() {
               </p>
             </div>
             <div>
+              
               <Image
-                src="/placeholder.svg?height=400&width=500"
+                src="https://www.splitbit.io/img/about/4653488%20(8).svg"
                 alt="Team working"
                 width={500}
                 height={400}
@@ -46,17 +47,17 @@ export default function AboutUs() {
           <h2 className="text-3xl font-bold mb-12">Our process</h2>
           <div className="grid md:grid-cols-3 gap-8">
             <div className="space-y-4">
-              <Image src="/placeholder.svg?height=80&width=150" alt="Atlassian Jira" width={150} height={80} />
+              <Image src="https://www.splitbit.io/img/tracking/jira-text.svg" alt="Atlassian Jira" width={150} height={80} />
               <h3 className="text-xl font-medium">Atlassian Jira</h3>
               <p className="text-gray-600">A dedicated board will be setup to track the tasks related to the app</p>
             </div>
             <div className="space-y-4">
-              <Image src="/placeholder.svg?height=80&width=150" alt="Email Communication" width={150} height={80} />
+              <Image src="https://www.splitbit.io/img/tracking/emailIcon%20(1).svg" alt="Email Communication" width={150} height={80} />
               <h3 className="text-xl font-medium">Email Communication</h3>
               <p className="text-gray-600">A daily / weekly updates of the application through email.</p>
             </div>
             <div className="space-y-4">
-              <Image src="/placeholder.svg?height=80&width=150" alt="Daily Standups" width={150} height={80} />
+              <Image src="https://www.splitbit.io/img/tracking/standup.svg" alt="Daily Standups" width={150} height={80} />
               <h3 className="text-xl font-medium">Daily Standups</h3>
               <p className="text-gray-600">
                 A daily standup will be done to discuss about the progress and blockers if any.
