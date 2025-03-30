@@ -22,7 +22,7 @@ export default function WhatWeDo() {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
               <Image
-                src="/placeholder.svg?height=400&width=500"
+                src="https://www.aceinfoway.com/ogimages/web-application-development.jpg"
                 alt="Web Development"
                 width={500}
                 height={400}
@@ -87,7 +87,7 @@ export default function WhatWeDo() {
             </div>
             <div className="order-1 md:order-2">
               <Image
-                src="/placeholder.svg?height=400&width=500"
+                src="https://th.bing.com/th/id/OIP.kiie2-BUe5P_SVM2bo64AAHaFF?rs=1&pid=ImgDetMain"
                 alt="Mobile Development"
                 width={500}
                 height={400}
@@ -104,7 +104,7 @@ export default function WhatWeDo() {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
               <Image
-                src="/placeholder.svg?height=400&width=500"
+                src="https://www.researchgate.net/profile/Matis-Hudon/publication/313566413/figure/fig1/AS:561681405546497@1510926690865/Different-examples-of-AR-MR-application-demonstrating-the-huge-range-of-field-concerned.png"
                 alt="AR/VR Development"
                 width={500}
                 height={400}
@@ -168,7 +168,7 @@ export default function WhatWeDo() {
             </div>
             <div className="order-1 md:order-2">
               <Image
-                src="/placeholder.svg?height=400&width=500"
+                src="https://th.bing.com/th/id/OIP.kgM70ENBNiQ9bfHaHMYkUgHaEr?rs=1&pid=ImgDetMain"
                 alt="SEO Services"
                 width={500}
                 height={400}

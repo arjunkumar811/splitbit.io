@@ -30,7 +30,7 @@ export default function AboutUs() {
             <div>
               
               <Image
-                src="https://www.splitbit.io/img/about/4653488%20(8).svg"
+                src="https://www.betterup.com/hubfs/Happy-work-team-cheering-and-celebrating-at-meeting-team-collaboration.jpg"
                 alt="Team working"
                 width={500}
                 height={400}
